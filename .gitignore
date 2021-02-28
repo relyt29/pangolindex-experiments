@@ -1,0 +1,5 @@
+solidities
+.mypy_cache
+venv
+__pycache__
+*.log
